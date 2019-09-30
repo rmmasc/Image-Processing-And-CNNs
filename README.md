@@ -1,2 +1,2 @@
 # Image-Processing-and-CNNs
-Coursework (Assignments and Projects) for Digital Image Processing
+C++, Python, OpenCV: Coursework (Assignments and Projects) for Digital Image Processing
